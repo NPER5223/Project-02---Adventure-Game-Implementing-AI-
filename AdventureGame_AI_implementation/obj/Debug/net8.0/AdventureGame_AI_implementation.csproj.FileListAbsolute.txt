@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\bin\Debug\net8.0\AdventureGame_AI_implementation.exe
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\bin\Debug\net8.0\AdventureGame_AI_implementation.deps.json
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\bin\Debug\net8.0\AdventureGame_AI_implementation.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\bin\Debug\net8.0\AdventureGame_AI_implementation.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\bin\Debug\net8.0\AdventureGame_AI_implementation.pdb
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\refint\AdventureGame_AI_implementation.dll
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.pdb
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\AdventureGame_AI_implementation.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\COMP2315\AdventureGame_AI_implementation\obj\Debug\net8.0\ref\AdventureGame_AI_implementation.dll
